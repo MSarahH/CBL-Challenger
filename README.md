@@ -14,10 +14,10 @@ https://www.figma.com/board/zGIbD8Wx9ypxagr0OVDG5u/CBL?node-id=0-1&t=1AZe73he3b5
 
 echo "CBL Challenger - Sistema de Contatos de Emergência"
 
-# Simula o aplicativo abrindo rapidamente
+#Simula o aplicativo abrindo rapidamente
 echo "Carregando aplicativo..."
 
-# Manter localização ligada
+#Manter localização ligada
 echo "Deseja manter a localização ligada? (Sim/Não)"
 read location
 
@@ -29,7 +29,7 @@ else
     echo "Obtendo contatos de emergência para o CEP $cep..."
 fi
 
-# Mostrar opções de busca ou contatos automáticos
+#Mostrar opções de busca ou contatos automáticos
 echo "Contatos de emergência obtidos:"
 echo "1. Polícia"
 echo "2. SAMU"
@@ -54,7 +54,7 @@ else
     esac
 fi
 
-# Visualizar ou ligar
+#Visualizar ou ligar
 echo "Você selecionou: $service"
 echo "Deseja visualizar o número ou ligar diretamente? (Visualizar/Ligar)"
 read action
