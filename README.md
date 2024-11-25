@@ -8,6 +8,7 @@ Nosso projeto é uma plataforma que permite o acesso rápido e fácil a contatos
 # Links:
 https://docs.google.com/document/d/1-JVgYfth44af2qD2Wx6k09hJmct85BFfhvEIwsobdEU/edit?usp=sharing
 https://www.figma.com/board/zGIbD8Wx9ypxagr0OVDG5u/CBL?node-id=0-1&t=1AZe73he3b5HMfLq-1
+https://docs.google.com/document/d/1V9F_EfP2oG39dEJFlG3xkp7q3pqYW5jw_bESO3U-0NU/edit?usp=sharing
 
 # Código:
 #!/bin/bash
