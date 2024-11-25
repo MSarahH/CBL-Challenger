@@ -68,14 +68,15 @@ else
     echo "Chamada em andamento..."
 fi
 
-Funcionalidades de Gestão de Contatos:
+echo "Fim."
+
+
+
+# Funcionalidades de Gestão de Contatos:
 Armazenamento de Contatos:
 Salvar uma lista de contatos de emergência, organizados por categoria (polícia, bombeiros, SAMU, etc.).
 Pesquisa de Contatos:
 Permitir pesquisa por nome ou serviço.
 Visualização e Ligações:
 Exibir informações do contato e oferecer a opção de ligar diretamente (simulado no CLI).
-
-
-echo "Fim."
 
